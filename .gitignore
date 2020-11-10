@@ -29,6 +29,9 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Ignore FodyWeavers Config Files
+**/*FodyWeavers*
+
 # Ignore NuGet Packages
 *.nupkg
 
