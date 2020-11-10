@@ -9,8 +9,9 @@
         <ScrollViewer>
             <StackPanel MinWidth="200">
                 <TextBlock Text="ABOUT" Style="{StaticResource Heading2}" />
-                <TextBlock Text="TODO: provide information about the software" Margin="0,0,0,8" TextWrapping="Wrap" />
-            </StackPanel>
+				<TextBlock Text="Made, with love, by Moogle Troupe and Chipotle.&#x0a;&#x0a;Something about third party libraries here.&#x0a;&#x0a;Icon copyright here." Margin="0,0,0,8" TextWrapping="Wrap" />
+			</StackPanel>
         </ScrollViewer>
+		<TextBlock Text="Shameless icon plug for Moogle Troupe Twitch, YouTube, and the two other platforms I don't remember right now." Margin="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Bottom" TextWrapping="Wrap" />
     </Grid>
 </UserControl>

@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace MogAmpUI.Pages
 {
 	/// <summary>
-	/// Interaction logic for Home.xaml
+	/// Interaction logic for Playlist.xaml
 	/// </summary>
-	public partial class Home : UserControl
+	public partial class Playlist : UserControl
 	{
-		public Home()
+		public Playlist()
 		{
 			InitializeComponent();
 		}
